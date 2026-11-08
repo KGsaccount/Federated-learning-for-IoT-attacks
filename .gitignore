@@ -1,0 +1,18 @@
+# Dataset and generated files (the dataset is on Google Drive, see README)
+data/
+*.csv
+trained_models/
+*.joblib
+*.pkl
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
